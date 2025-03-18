@@ -1,0 +1,24 @@
+{
+  "name": "testetargetsistemas",
+  "version": "1.0.0",
+  "description": "teste realizado para vaga de desenvolvedor 2 - plantão",
+  "homepage": "https://github.com/Hudson-Pereira/testetargetsistemas#readme",
+  "bugs": {
+    "url": "https://github.com/Hudson-Pereira/testetargetsistemas/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hudson-Pereira/testetargetsistemas.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js --watch"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
